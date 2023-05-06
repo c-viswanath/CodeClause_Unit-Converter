@@ -17,7 +17,7 @@ This is a simple unit converter website created as an internship project for Cod
 
 ## Getting Started
 
-To use the unit converter website, simply go to [https://yourwebsiteurl.com](https://yourwebsiteurl.com) in your web browser.
+To use the unit converter website, simply go to [Unit Converter](https://c-viswanath.github.io/Unit-Converter/) in your web browser.
 
 ## Development
 
